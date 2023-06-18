@@ -4,8 +4,8 @@
 
 /**
  * main - Prints the alphabet without q and e.
- *Return: Always 0 (Success)
  *
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
