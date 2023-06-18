@@ -17,7 +17,7 @@ int main(void)
 
 	int n, lastd;
 
-	strand(time(0));
+	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	lastd = n % 10;
 
@@ -36,4 +36,3 @@ int main(void)
 	return (0);
 
 }
-      
